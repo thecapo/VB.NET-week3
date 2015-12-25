@@ -1,0 +1,24 @@
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.exe.config
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.Form1.resources
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.Resources.resources
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.vbproj.GenerateResource.Cache
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.xml
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.xml
+C:\Users\bhi1599017\Downloads\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.pdb
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.exe.config
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.exe
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.xml
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.pdb
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.exe
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.pdb
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.xml
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.Form1.resources
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.Resources.resources
+C:\Users\cawo\Desktop\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.vbproj.GenerateResource.Cache
+D:\TERM 1\Box Hill\feb 17 2\exercise3\exercise3\bin\Debug\exercise3.exe.config
+D:\TERM 1\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.exe
+D:\TERM 1\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.xml
+D:\TERM 1\Box Hill\feb 17 2\exercise3\exercise3\obj\Debug\exercise3.pdb
